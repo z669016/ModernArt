@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="app_title">Modern Art UI</string>
+    <string name="more_information">More information</string>
+    <string name="inspiration">Inspired by the work of Piet Mondriaan.</string>
+    <string name="click_more">Click below to learn more</string>
+    <string name="visit">Visit MOMA</string>
+    <string name="not_now">Not now</string>
+    <string name="more_information_url">https://www.moma.org</string>
+</resources>
